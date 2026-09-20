@@ -1228,7 +1228,15 @@ transform: rotate(90deg);
     .research-cards {
         grid-template-columns: 1fr;
     }
+/* --------research intro----------------- */
 
+.research-intro h2 {
+
+font-size: 32px;
+
+line-height: 1.2;
+
+}
 
 /* ------------------------------------
 TEAM
