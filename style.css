@@ -896,16 +896,16 @@ margin-bottom: 15px;
 }
 
 /* --------*---------------------------8
-PAGE H*ADER
------------------------------*------ */
+PAGE HEADER
+----------------------------------- */
 
 .page-header {
-3
-pad*ing: 25px 25px;
+
+padding: 25px 25px;
 
 }
 
-.page-header h1*{
+.page-header h1{
 
 font-size: 42px;
 
@@ -913,7 +913,7 @@ line-*eight: 1.2;
 
 }
 
-.page-header p:last*child {
+.page-header p:last-child {
 
 font-size: 16px;
 
